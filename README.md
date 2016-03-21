@@ -13,4 +13,4 @@ java -jar CreatedGitRepository.jar 仓库名 .git 目录\
 ```
 > 记得加\ 在后面
 
-![命令参考图](https://github.com/VectorWen/CreatedGitRepository/CreatedGitRepository.png)
+![命令参考图](./CreatedGitRepository.png)
