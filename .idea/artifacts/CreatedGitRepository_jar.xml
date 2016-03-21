@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CreatedGitRepository:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CreatedGitRepository_jar</output-path>
+    <root id="archive" name="CreatedGitRepository.jar">
+      <element id="module-output" name="CreatedGitRepository" />
+    </root>
+  </artifact>
+</component>
